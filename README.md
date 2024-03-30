@@ -1,0 +1,3 @@
+-> add all these files in one folder 
+-> install all the dependencies 
+-> run the index4.html file
